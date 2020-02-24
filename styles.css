@@ -12,6 +12,8 @@
 img {
     display: inline;
     margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
     height: 100%;
     width: auto;
 }
